@@ -25,7 +25,19 @@ A simple chess game built using **HTML**, **CSS**, and **JavaScript**. This proj
 2..Open index.html in any modern web browser.
 
 
+
+
+<img width="673" alt="Image" src="https://github.com/user-attachments/assets/ba2498eb-1a97-44b2-b5bd-e6aea545db1d" />
+
+
+
 Future Improvements
 Add support for checkmate and stalemate detection.
 Implement a timer for each player's turn.
 Add AI for single-player mode
+
+
+
+
+
+
